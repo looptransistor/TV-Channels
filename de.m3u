@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:7200,Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:30,ZDF HD (540p)
+#EXTVLCOPT:network-caching=1000
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+#EXTINF:49,3sat
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:49,SAT.1 Gold (576p)
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:49,arte (Germany) HD
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:49,kabel eins
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:49,ProSieben (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:24,TELE 5 (576p)
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:18,Comedy Central (Germany)
+#EXTVLCOPT:network-caching=1000
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:7200,ARD-alpha (720p)
+#EXTVLCOPT:network-caching=1000
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:32,ZDFinfo (720p)
+#EXTVLCOPT:network-caching=1000
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+#EXTINF:30,ZDFneo (1080p)
+#EXTVLCOPT:network-caching=1000
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
+#EXTINF:49,RTL (Germany)
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:50,RTL Zwei
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:24,RTLup (576p)
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/rtltupz/index.m3u8
+#EXTINF:24,kabel eins Doku
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:24,Pro7 MAXX
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:0, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Undefined" - RTL Super
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:50,VOX
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:49,Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:50,n-tv
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:0,SRF info (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
